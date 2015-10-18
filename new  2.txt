@@ -1,0 +1,12 @@
+<div class="ui-block-a"><input type="text" name="txtPlato" id="txtPlato" placeholder="Contenido o nomble del plato"  /></div>
+    <div class="ui-block-b"><img src="img/lupa-icono-3813-32.png" alt="lupa" longdesc="lupa" />  </div>
+  <div data-role="fieldcontain">
+  <fieldset data-role="controlgroup">
+    <input type="checkbox" name="cbkPlato_0" id="chkPlato_0" class="custom" value="" />
+    <label for="chkPlato_0">Precio</label>
+    <input type="checkbox" name="chkPlato_1" id="chkPlato_1" class="custom" value="" />
+    <label for="chkPlato_1">Más Portci&oacute;n</label>
+    <input type="checkbox" name="chkPlato_2" id="chkPlato_2" class="custom" value="" />
+    <label for="cbkPlato_2">Clasificaci&oacute;n</label>
+  </fieldset>
+  </div>

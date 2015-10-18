@@ -1,0 +1,12 @@
+<div class="ui-block-a"><input type="text" name="txtRestaurant" id="txtRestaurant" placeholder="Nombre, tipo, clima Restaurant"  /></div>
+    <div class="ui-block-b"><img src="img/lupa-icono-3813-32.png" alt="lupa" longdesc="lupa" />  </div>
+    <div data-role="fieldcontain">
+    <fieldset data-role="controlgroup">    
+      <input type="checkbox" name="cbkRestaurant_0" id="cbkRestaurant_0" class="custom" value="" />
+      <label for="cbkRestaurant_0">Precio</label>
+      <input type="checkbox" name="cbkRestaurant_1" id="cbkRestaurant_1" class="custom" value="" />
+      <label for="cbkRestaurant_1">Más cerca</label>
+      <input type="checkbox" name="cbkRestaurant_2" id="cbkRestaurant_2" class="custom" value="" />
+      <label for="cbkRestaurant_2">Calificaci&oacute;n</label>
+    </fieldset>
+    </div>
